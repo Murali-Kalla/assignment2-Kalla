@@ -16,3 +16,17 @@ The Taj Mahal is reminder of the Mughal era as it was built by **Mughal Emperor 
 * Food
 
 [AbouMe.md Link](AboutMe.md)
+
+---
+
+## Popular Food/Drinks 
+The table below illustrates about the best food/Drinks in various parts in the world and their prices in dollars.
+
+|Food/Drinks | Location  | Price($) |
+|------------| --------- | ----- |
+| Biryani    | Hyderabad | 10    |
+| Momos      | Sikkim    | 15    |
+| Bis Bele Bath|Karnataka | 7    |
+|Dhokla      | Gujarath  | 5    |
+| Mojito     | Cuba |     14    |
+
