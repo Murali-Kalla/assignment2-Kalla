@@ -20,7 +20,7 @@ The Taj Mahal is reminder of the Mughal era as it was built by **Mughal Emperor 
 ---
 
 ## Popular Food/Drinks 
-The table below illustrates about the best food/Drinks in various parts in the world and their prices in dollars.
+The table below illustrates about the best food/Drinks in various parts in the world and their price in dollars.
 
 |Food/Drinks | Location  | Price($) |
 |------------| --------- | ----- |
@@ -29,4 +29,13 @@ The table below illustrates about the best food/Drinks in various parts in the w
 | Bis Bele Bath|Karnataka | 7    |
 |Dhokla      | Gujarath  | 5    |
 | Mojito     | Cuba |     14    |
+
+---
+
+## Pithy Quotes
+>Everything comes in time to him who knows how to wait.- *Leo Tolstoy* <br>
+>Judge a man by his questions rather than by his answers.-*Voltaire*
+
+
+
 
